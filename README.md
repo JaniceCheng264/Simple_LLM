@@ -1,6 +1,6 @@
 # Simple_LLM
 
-基於[Openrouter](https://openrouter.ai/) API 與PyQt6簡單製作而成的Chatbot
+基於[Openrouter](https://openrouter.ai/) API 與PyQt6簡單製作而成的Chatbot  
 預設LLM為: Mistral-Devstral Small
 
 ## 功能
